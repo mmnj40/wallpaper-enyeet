@@ -1,2 +1,2 @@
 # wallpaper-enyeet
-![Alt text](image.png)
+![Alt text](Image.png)
